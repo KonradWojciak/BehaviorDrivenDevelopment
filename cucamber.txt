@@ -1,0 +1,8 @@
+npm init
+npm install cypress
+npx cypress open
+
+
+cucumber 
+
+npm install @cucumber/cucumber
